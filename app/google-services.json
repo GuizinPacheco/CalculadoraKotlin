@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417132409669",
+    "project_id": "historicocalculadora",
+    "storage_bucket": "historicocalculadora.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417132409669:android:f6ef4888029ae9746a842c",
+        "android_client_info": {
+          "package_name": "com.example.calculadora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417132409669-3dpvhlenk5fvouorv99asvffv2ao0sb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChLOaMrm4a0MpaHGgp3IAhM7QFxCLVg5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417132409669-3dpvhlenk5fvouorv99asvffv2ao0sb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
